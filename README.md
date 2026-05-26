@@ -32,10 +32,13 @@ MODEL GRAPH:
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/12577201-466d-4ed0-ad78-32e92a947c6f" />
 
 TABULATION:
+![IMG_20251203_143043 1](https://github.com/user-attachments/assets/c6401f34-b431-4f88-9acd-8a5c7d8a97d7)
 
 
 GRAPH: 
+![IMG_20251203_143109 1](https://github.com/user-attachments/assets/ee61e5e2-4e78-4a40-a8f6-9b7f71bb8d94)
 
 
 RESULT:
+![IMG_20251203_143116 1](https://github.com/user-attachments/assets/627f33b8-cee5-424e-bd34-11e0ee08cd88)
 
